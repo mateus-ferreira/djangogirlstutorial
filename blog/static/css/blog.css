@@ -61,3 +61,21 @@ h1, h2, h3, h4 {
 .comment {
     margin: 20px 0px 20px 20px;
 }
+
+.like_icon {
+    font-size: 25px;
+    display: inline;
+    color: #000000;
+}
+
+.liked_color {
+    color: #01A9DB;
+}
+
+.disliked_color {
+    color: #DF013A;
+}
+
+.icon_black {
+    color: #000000;
+}
